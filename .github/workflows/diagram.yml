@@ -14,3 +14,4 @@ jobs:
         uses: shixin-guo/repo-visualizer@main
         with:
           excluded_paths: "ignore,.github"
+          customize_file_colors: '{"md":"red"}'
